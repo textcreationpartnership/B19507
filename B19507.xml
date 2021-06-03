@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring the rates at which gold shall be current in payments, and to prohibite the transportation of the same.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19507</idno><idno type="EEBO-CITATION">99884826_189851</idno>
+  <idno type="VID">189851</idno>
+  <idno type="EEBO-PROQUEST">2248521946</idno>
+  
+            <idno type="STC">Wing C3293</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[157]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[24a]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[116]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[117]</idno>
+            <idno type="STC">ESTC R218176</idno>
+            <idno type="PROQUEST">ocm99884826</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884826e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189851)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[157]; C9:3[100]; C18:1[116]; C18:1[117])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring the rates at which gold shall be current in payments, and to prohibite the transportation of the same.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker, printers to the King's most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661. At the King's printing-house in Black-Fryars.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Refers to a proclamation of June 13, 1661, reciting laws as to exportation of gold and silver.</note>
+                  <note>Caption title.</note>
+                  <note>At end of text: Given at our court at Whitehal, the twenty sixth day of August, 1661. in the thirteenth year of our raign.</note>
+                  <note>Steele notation: of strength 2) it 3) half. 4) forfeiture for; Arms 67.</note>
+                  <note>Sheet 3 of British Library copy C.21.f.1(24a) missing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Two copies of this item are filmed consecutively at reel C18:1[116]-[117].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Gold --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Silver --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Export controls --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:189851:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>By the King. A PROCLAMATION Declaring the Rates at which Gold shall be Current in Payments, and to prohibite the Transportation of the same.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough there be many Statute Laws still in force for restraint of Exportation of Gold and Silver into Foreign parts; which several Statutes are particularly declared and mentioned in Our late Proclamation, whereby also We have commanded the said Laws to be duly observed: Nevertheless, We are well informed, and it is visible, that great quantities of Our Coyn of Gold do pass so ordinarily in Payments in Foreign Nations, that Our Gold at this time is more stirring abroad in parts beyond the Seas, then here at home in Our own Island, whereby there is occasioned a scarcity of Gold throughout Our whole Dominions, to the great prejudice of Our Reputation abroad, and the manifest inconvenience of Our Subjects at home. For the remedy whereof, We out of Our earnest desire and great care to preserve the Publick Treasure, and so the strength and honor of Our Kingdoms, have called before Vs and Our Privy Council, Our Commissioners for Trade, Officers of Our Mint, and Goldsmiths of the best sort, to the end We might ground Our Resolutions in this behalf, upon such Informations and Discoveries, as either Art, Experience, or Know<g ref="char:EOLhyphen"/>ledge of Affairs abroad could afford; and considering former Events with their present Opinion and Advice, We finde the cause of this evil to be the great gain which the Merchant (especially the stranger) maketh by the Exportati<g ref="char:EOLhyphen"/>on of Our Gold; which gain ariseth out of the disproportion between the price of Our Coyns of Gold, which is higher abroad then here within Our own Kingdoms, and the gain is so great and so swift in return, that it in vites men to offend against all Laws that have formerly been made against such Exportation: And therefore find<g ref="char:EOLunhyphen"/>ing no other remedy competent or effectual, We resolved (preserving still the weight and fineness of Our Standard to raise the price of Our Gold, to or near the equal value with that it beareth in Foreign parts; and yet that it may not be conceived that We would make the Remedy larger then the Inconvenience, We have absolutely con<g ref="char:EOLhyphen"/>cluded with good advice and deliberation, not to make any manner of alteration in the price or otherwise of Our Silver, with which all Trades and Payments are so much driven and made, as the raising the price thereof would give both colour and cause to raise the prices of all Commodities and things vendible, which We seék by all means to avoid: And because it may appear to the World, that in this Our proceeding We are not bent upon any benefit of Our Self (which might accrue to Vs by the Coynage, if We had set this increase of price upon such Coyns onely as should have been newly stamped) but that We intend a Reformation for the publick good, We have given the price as well of Gold heretofore Coyned, as hereafter; so as if any profit by accident should fall out, it will be rather Our Subjects then Ours. We do therefore hereby publish, declare, and authorise all the several Peices of Gold hereafter mentioned, to be current within this Our Realm respectively hereafter at the values following; That is to say,</p>
+            <p>
+               <hi>The Peice of Gold called the</hi>
+               <list>
+                  <item>
+                     <hi>Unite</hi>
+                  </item>
+                  <item>
+                     <hi>Double Crown</hi>
+                  </item>
+                  <item>
+                     <hi>Britany Crown</hi>
+                  </item>
+                  <item>
+                     <hi>Thistle Crown</hi>
+                  </item>
+                  <item>
+                     <hi>Half Crown</hi>
+                  </item>
+               </list>
+               <hi>now current at</hi>
+               <list>
+                  <item>
+                     <hi>22 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>11 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings six pence</hi>
+                  </item>
+                  <item>
+                     <hi>4 Shillings four pence three farthings</hi>
+                  </item>
+                  <item>
+                     <hi>2 Shillings nine pence</hi>
+                  </item>
+               </list>
+               <hi>to be current at</hi>
+               <list>
+                  <item>
+                     <hi>23 Shillings six pence.</hi>
+                  </item>
+                  <item>
+                     <hi>11 Shillings nine pence.</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings ten pence half penny.</hi>
+                  </item>
+                  <item>
+                     <hi>4 Shillings eight pence.</hi>
+                  </item>
+                  <item>
+                     <hi>2 Shillings eleven pence.</hi>
+                  </item>
+               </list>
+               <hi>penny.</hi>
+            </p>
+            <p>
+               <hi>The Coyn of Gold of <hi>Scotland</hi> called the Six pound peice now current at Eleven shillings, to be current at Eleven shillings and eight pence.</hi>
+            </p>
+            <p>
+               <hi>The Peice of Gold called</hi>
+               <list>
+                  <item>
+                     <hi>The Unite</hi>
+                  </item>
+                  <item>
+                     <hi>The Double Crown</hi>
+                  </item>
+                  <item>
+                     <hi>The Britain Crown</hi>
+                  </item>
+               </list>
+               <hi>now current at</hi>
+               <list>
+                  <item>
+                     <hi>20 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>10 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings</hi>
+                  </item>
+               </list>
+               <hi>to be current at</hi>
+               <list>
+                  <item>
+                     <hi>21 Shillings four pence.</hi>
+                  </item>
+                  <item>
+                     <hi>10 Shillings eight pence.</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings four pence.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>The Peice of Gold called</hi>
+               <list>
+                  <item>
+                     <hi>The Rose Royal</hi>
+                  </item>
+                  <item>
+                     <hi>The Spur Royal</hi>
+                  </item>
+                  <item>
+                     <hi>The Angel</hi>
+                  </item>
+                  <item>
+                     <hi>The Angellet or Half Angel</hi>
+                  </item>
+                  <item>
+                     <hi>The Quarter Angel</hi>
+                  </item>
+               </list>
+               <hi>now current at</hi>
+               <list>
+                  <item>
+                     <hi>33 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>16 Shillings six pence</hi>
+                  </item>
+                  <item>
+                     <hi>11 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings six pence</hi>
+                  </item>
+                  <item>
+                     <hi>2 Shillings nine pence</hi>
+                  </item>
+               </list>
+               <hi>to be current at</hi>
+               <list>
+                  <item>
+                     <hi>35 Shillings.</hi>
+                  </item>
+                  <item>
+                     <hi>17 Shillings six pence.</hi>
+                  </item>
+                  <item>
+                     <hi>11 Shillings eight pence.</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings ten pence.</hi>
+                  </item>
+                  <item>
+                     <hi>2 Shillings eleven pence.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>The Peice of Gold called</hi>
+               <list>
+                  <item>
+                     <hi>The Rose Royal</hi>
+                  </item>
+                  <item>
+                     <hi>The Spur Royal</hi>
+                  </item>
+                  <item>
+                     <hi>The Angel</hi>
+                  </item>
+               </list>
+               <hi>now current at</hi>
+               <list>
+                  <item>
+                     <hi>30 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>15 Shillings</hi>
+                  </item>
+                  <item>
+                     <hi>10 Shillings</hi>
+                  </item>
+               </list>
+               <hi>to be current at</hi>
+               <list>
+                  <item>
+                     <hi>32 Shillings.</hi>
+                  </item>
+                  <item>
+                     <hi>16 Shillings.</hi>
+                  </item>
+                  <item>
+                     <hi>10 Shillings eight pence.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And for as much as the greater price is set upon Our Coyns of Gold, which is like also to be a means to draw forth Gold to be more usual in Payments then of late it hath beén, the more convenient it is, that no Peices of Gold which are become light by any Clipping or Washing, or the like practises, be put upon Our loving Subjects in any Payments to their prejudice, if the defect be not within that small abatement, which must be by reason of the in<g ref="char:EOLhyphen"/>certainty of the Shearers at the Mint, We have thought good according to the President of a Proclamation made in the Nine and twentieth year of the Reign of Our late Dear Sister Queen <hi>Elizabeth,</hi> which continued in force till Her decease, to declare, and by these presents We do declare, That it shall be freé and lawful for all and every Our lovings Subjects, to refuse in any Payments all Peices of Gold which shall be lighter then according to the Remedies or Abatements hereafter following.</p>
+            <p>
+               <hi>In every Piece of Gold formerly current for</hi>
+               <list>
+                  <item>
+                     <hi>33 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>22 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>16 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>11 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings six pence,</hi>
+                  </item>
+                  <item>
+                     <hi>2 Shillings nine pence,</hi>
+                  </item>
+               </list>
+               <hi>The remedy shall not exceed</hi>
+               <list>
+                  <item>
+                     <hi>4 Grains and a half.</hi>
+                  </item>
+                  <item>
+                     <hi>3 Grains.</hi>
+                  </item>
+                  <item>
+                     <hi>2 Grains and a half.</hi>
+                  </item>
+                  <item>
+                     <hi>2 Grains.</hi>
+                  </item>
+                  <item>
+                     <hi>1 Grain.</hi>
+                  </item>
+                  <item>
+                     <hi>Half a Grain</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All which Remedies shall be allowed in every Peice accordingly, and no Deduction or Abatement to be made for the same, but to pass as if it were of full weight and just value: But if any such Peice of Coyn lacking of his true weight above the said Remedies before expressed, shall be offered in Payment by any person or persons within this Our Realm, Our Will and Pleasure then is, That for so many Grains more or less as the Peice shall be lighter then the Remedy, so as aforesaid allowed, every person or persons that so offereth the same in Payment, shall also at the same time pay and allow after the rate of Two pence the Grain, to him that receiveth it, for every Grain wanting above the Remedies respectively. And every person or persons to whom the same is offered to be paid with those allowances, shall accept the same in Payment as if the same were full and just weight, any thing contained in this Our Proclamation to the contrary notwithstanding: Provided always, That if any such Peice of Gold so offered in Payment, shall want above the number of so many more Grains then are allowed for the Remedies respectively, as if the Peice of Twenty and two shillings shall want more then threé Grains above the Remedy al<g ref="char:EOLhyphen"/>lowed, or the Peice of Eleven shillings more then two Grains above the Remedy, and so of all the rest respectively, then Our Royal Will and Pleasure is, That in all Payments betweén party and party, the same shall not onely be
+<pb facs="tcp:189851:2"/> refused without all redemption, but that every person or persons to whom such tender of Payments shall be made, shall brand the same by striking a hole at his and their pleasure, in every of the same Peices so offered in Payment; as likewise of any other Peice that shall be found sowdered or unlawfully imbased, rendring those Peices so stricken thorow then presently afterwards to the Owners thereof again.</p>
+            <p>
+               <hi>In every Peice of Gold formerly current at</hi>
+               <list>
+                  <item>
+                     <hi>30 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>20 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>15 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>10 Shillings,</hi>
+                  </item>
+                  <item>
+                     <hi>5 Shillings,</hi>
+                  </item>
+               </list>
+               <hi>The Remedy shall not exceed</hi>
+               <list>
+                  <item>
+                     <hi>4 Grains and a half.</hi>
+                  </item>
+                  <item>
+                     <hi>3 Grains.</hi>
+                  </item>
+                  <item>
+                     <hi>2 Grains and a half.</hi>
+                  </item>
+                  <item>
+                     <hi>2 Grains.</hi>
+                  </item>
+                  <item>
+                     <hi>1 Grain.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And if any of the Peices last before mentioned shall be found lighter then the Remedy so as aforesaid allowed, the same shall not be current in Payment, but may be stricken thorow by the party to whom the same shall be offered in Payment, rendring the same again to the Owner. Furthermore, We do not so rest upon this course of policy for the stay of the Exportation of Gold out of Our Kingdoms, as We do in any sort lay aside those legal Remedies which by Our Laws and Statutes in force have beén provided, for the repressing of the said Offence in Exporting both Gold and Silver; but contrariwise, Our Will and Pleasure is, and We do make known the same to all Our loving Subjects, and streightly Command all Our Officers and Ministers to whom it may appertain, That the Statutes and Branches of Statutes hereafter particularly expressed, be duly put in execution, that is to say, The Statutes made at <hi>York,</hi> in the Ninth year of King <hi>Edward</hi> the Third, called <hi>The Statute of Money, First, sixth, ninth, and tenth Chapters;</hi> whereby is provided, that from thenceforth none should carry away any Sterling-Money out of the Realm of <hi>England,</hi> nor Silver in Plate, nor Vessel of Gold or Silver, upon pain of forfeiture of the same Money, Plate, or Vessel: And that the Major and Bailiffs in every Port where Merchants and Ships should be, should take an Oath of the Masters and Merchants of Ships going and coming again, that they should do no fraud against the Provision of that Law in any point; and that good and streight search should be made in all places upon the Sea-Coasts, in Havens and elswhere, where any arrival should be, by good and lawful men thereto sworn, that in the Kings Name they should make diligent search, that no man of what estate or con<g ref="char:EOLhyphen"/>dition soever, should carry out of this Realm, Sterling-Money, Silver, or Plate, nor Vessel of Gold or Silver without the Kings Licence; and that the Searcher shall have the fourth part for their labor of as much as they shall finde so forfeited, and to lose all his Goods if he dispence with any man, and he thereof attaint, as by the same Statute among other things more fully doth appear. And one other Statute made in the Second year of <hi>Henry</hi> the Fourth, the <hi>Fifth Chapter,</hi> whereby the King did ordain and establish, that from thenceforth any Searcher of the King might finde Gold or Silver in Coyn, or in Mass, in the keéping of any that should be passing, or upon his passage in any Ship or Vessel, for to go out of any Port, Haven, or Creék of the Realm, without the Kings special Licence, that Gold or Silver should be forfeited to the King (saving his reasonable ex<g ref="char:EOLhyphen"/>pences) as by the same Statute it doth and may more at large appear. And We do specially Charge and Command, That the Major and Bailiffs in every Port where Merchants and Ships shall be, and all such to whom the same shall or may in any wise appertain, do from henceforth carefully take the Oath of Masters of Ships and Mer<g ref="char:EOLhyphen"/>chants, according to the true meaning of the said Statute, made in the said Ninth year of King <hi>Edward</hi> the Third. And that all Customers, Searchers, Comptrollers, and all other Our Officers and Ministers whatsoever, to whom it appertaineth, do so carefully and diligently execute their several Offices, as the said Statutes, and all others in any sort concerning the Premisses may without any default or negligence in them, or any of them, be duly and effectually executed, upon pain of the greatest punishment that by Our Laws may be inflicted upon them for their default, negligence, and contempt in that behalf.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehal,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Twenty sixth day of <hi>August,</hi> 1661. in the Thirteenth year of Our Raign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the KING'S most Excellent Majesty, 1661.</p>
+            <p>At the KING'S Printing-house in <hi>Black-Fryars.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
